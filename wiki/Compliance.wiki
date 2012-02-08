@@ -1,0 +1,7 @@
+#labels Featured
+=Supported API calls.=
+
+|| *Resource* || * REST Method* || *Status* || *Java Method* ||
+|| Account || Find Account || implemented || getAccount ||
+|| Account || Update Account || implemented || updateAccount ||
+|| Plan || Find All Plans || implemented || getPlans ||
