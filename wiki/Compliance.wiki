@@ -11,3 +11,6 @@
 || User || Create User || implemented || createUser ||
 || User || Update User || implemented || updateUser ||
 || User || Delete User || implemented || deleteUser ||
+|| Invitation || Find Invitation || implemented || getInvitation ||
+|| Invitation || Create Invitation || implemented || createInvitation ||
+|| Invitation || Resend Invitation || implemented || resendInvitation ||
